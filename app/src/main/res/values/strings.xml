@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DualShot Recorder</string>
+    <string name="channel_recording_name">Recording</string>
+    <string name="channel_recording_desc">DualShot is recording video</string>
+    <string name="notification_recording_title">Recording in progress</string>
+    <string name="notification_recording_text">DualShot Recorder is capturing dual streams</string>
+    <string name="permission_camera_title">Camera permission required</string>
+    <string name="permission_camera_message">DualShot needs camera access to record vertical and horizontal video simultaneously.</string>
+    <string name="permission_audio_title">Microphone permission required</string>
+    <string name="permission_audio_message">DualShot needs microphone access to record audio with your videos.</string>
+    <string name="permission_retry">Grant permissions</string>
+    <string name="permission_dismiss">Cancel</string>
+    <string name="dual_lens_unsupported">Dual Lens requires Android 13+ and a device with concurrent cameras. Using Single Lens mode.</string>
+    <string name="storage_full">Storage full. Recording stopped.</string>
+    <string name="recording_saved">Videos saved to Movies/DualShot</string>
+    <string name="open_videos">Open</string>
+</resources>
